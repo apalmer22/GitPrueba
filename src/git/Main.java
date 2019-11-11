@@ -1,10 +1,10 @@
 package git;
-
+	
 	public class Main {
+		
 			public static void main(String[] args) {
-			printHola();
+				Arnau obj=new Arnau();
+				obj.saludar();
 			}
-			public static void printHola(){
-			System.out.println("Hola món!");
-}
+			
 }
