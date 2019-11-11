@@ -4,6 +4,6 @@ public class Arnau {
 	public Arnau() {
 }
 	public static void saludar() {
-		System.out.println("Hola mundo!");
+		System.out.println("Hola a todos!");
 	}
 }
